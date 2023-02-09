@@ -11,7 +11,5 @@ By writing a query to filter the summer temperatures of June in Oahu we can gath
   * The minimum recorded temperature was 64 degrees.
   * the highest temperature for June hit about 85 degrees
 
-![D1](https://user-images.githubusercontent.com/118647523/217719265-1d403beb-ced0-42f6-bb50-5a09244c4627.png)
-
-![D3-1](https://user-images.githubusercontent.com/118647523/217719279-c1de9012-d6ee-4429-8e6a-045c7b5a71ac.png)
+![D1](https://user-images.githubusercontent.com/118647523/217719265-1d403beb-ced0-42f6-bb50-5a09244c4627.png)![D3-1-1](https://user-images.githubusercontent.com/118647523/217719930-d5077c03-3323-4598-b775-7bde4c6b8acb.png)
 
