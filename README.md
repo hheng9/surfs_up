@@ -22,3 +22,5 @@ We then write another query to generate the summary statistics for temperatures 
 
 ![D2](https://user-images.githubusercontent.com/118647523/217721258-c6d72d4d-7f65-4374-9cd2-dc12f314a25a.png)![D3-2](https://user-images.githubusercontent.com/118647523/217721264-f5c24b16-db5d-4840-a832-5b0488dd669c.png)
 
+## Summary 
+The temperature in Oahu is consistanly the same for all of the months throughout the year with the low temperatures fluctuating between the summer and winter months. 
