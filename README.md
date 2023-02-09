@@ -25,7 +25,7 @@ We then write another query to generate the summary statistics for temperatures 
 ## Summary 
 The temperature in Oahu is consistanly the same for all of the months throughout the year with the low temperatures fluctuating between the summer and winter months. The precipitation is very similiar between the months as well. The results show that Oahu is a good location to open a surf and ice cream shop with little change in climate to effect any business routine.
 
-Below are precipitaction summary statistic images generated in the describe function format and are related to the June and December months.
+Below are two additional queries displaying precipitaction summary statistic images generated in the describe function format and are related to the June and December months.
 
 ![D3-3](https://user-images.githubusercontent.com/118647523/217724248-5bc3f052-d912-445e-8d21-3302ec94ffb6.png)![D3-4](https://user-images.githubusercontent.com/118647523/217724254-dc0e9cb7-c6e4-44a8-93f9-f1bc29fbd84d.png)
 
